@@ -1,0 +1,3 @@
+/home/fekef/CLionProjects/openGL/cmake-build-debug/CMakeFiles/openGL.dir
+/home/fekef/CLionProjects/openGL/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/fekef/CLionProjects/openGL/cmake-build-debug/CMakeFiles/rebuild_cache.dir

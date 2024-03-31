@@ -1,0 +1,3 @@
+/home/fekef/CLionProjects/anyGrapics/cmake-build-debug/CMakeFiles/anyGrapics.dir
+/home/fekef/CLionProjects/anyGrapics/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/fekef/CLionProjects/anyGrapics/cmake-build-debug/CMakeFiles/rebuild_cache.dir

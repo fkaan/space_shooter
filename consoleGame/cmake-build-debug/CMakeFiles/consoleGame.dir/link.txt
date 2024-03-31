@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/consoleGame.dir/main.c.o -o consoleGame 
